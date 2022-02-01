@@ -1,0 +1,30 @@
+{
+  "name": "truewallet-2022",
+  "version": "0.0.1",
+  "description": "debug & fix bug truewall",
+  "main": "truewallet-class.js",
+  "scripts": {
+    "test": "truewallet-class.js"
+  },
+  "keywords": [
+    "tw",
+    "tw-2022",
+    "tw-thai-2022",
+    "truewallet",
+    "truewallet-thai",
+    "thai-truewallet",
+    "truewallet-2022",
+    "truewallet-2022-thai",
+    "thai-truewallet-2022"
+  ],
+  "author": ["Deekit Wiseschu" "TinnerKun"],
+  "license": "AGPL-3.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Deekit0904/Truewallet-Voucher-Topup.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Deekit0904/Truewallet-Voucher-Topup/issues"
+  },
+  "homepage": "https://github.com/Deekit0904/Truewallet-Voucher-Topup#readme"
+}
