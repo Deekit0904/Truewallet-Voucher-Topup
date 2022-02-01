@@ -10,11 +10,10 @@ Made For Educational Purpose Only (By Deekit Wiseschu)
 
 Install
 ============
+We dont need to install 3nd party module
 ```javascript
 var topup = require('./truewallet-class')
 ```
-
-We dont need to install 3nd party module
 
 Usage
 ============
