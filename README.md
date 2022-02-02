@@ -1,7 +1,5 @@
 # Truewallet-Voucher-Topup
 Simple Truewallet Voucher Topup!
-
-Truewallet Voucher Topup
 ============
 
 Node.js Class to Topup Truewallet-Voucher
