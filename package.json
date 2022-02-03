@@ -1,6 +1,6 @@
 {
   "name": "truewallet-2022",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "debug & fix bug truewall",
   "main": "truewallet-class.js",
   "scripts": {
