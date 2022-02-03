@@ -1,6 +1,12 @@
 # Truewallet-Voucher-Topup
 Simple Truewallet Voucher Topup!
 
+![npm](https://img.shields.io/npm/v/truewallet-2022?style=flat-square&label=npm%20Version)
+![GitHub package.json version](https://img.shields.io/github/package-json/v/Deekit0904/Truewallet-Voucher-Topup?label=Github%20Version&style=flat-square)
+![npm bundle size](https://img.shields.io/bundlephobia/min/truewallet-2022?style=flat-square)
+![npm](https://img.shields.io/npm/dy/truewallet-2022?style=flat-square)
+![NPM](https://img.shields.io/npm/l/truewallet-2022?style=flat-square)
+
 About IT
 ============
 
@@ -12,13 +18,13 @@ Install
 ============
 We dont need to install 3nd party module
 ```javascript
-var topup = require('./truewallet-class')
+var topup = require('truewallet-2022')
 ```
 
 Usage
 ============
 ```javascript
-var topup = require('./truewallet-class')
+var topup = require('truewallet-2022')
 
 (async () => {
   try {
@@ -60,4 +66,4 @@ var topup = require('./truewallet-class')
 ```
 
 ## Any problems?
-* [Discord](https://discord.gg/hGZ3HxCJER)
+[![Discord](https://img.shields.io/discord/699832081643077662?label=หจก.SycerNetwork&style=flat-square)](https://discord.gg/hGZ3HxCJER)
