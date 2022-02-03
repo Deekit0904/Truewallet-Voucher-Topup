@@ -13,7 +13,8 @@ const https = require('https')
 class RedeemCard {
     constructor(link,tel){
         return new Promise(async (resolve,reject) => {
-            if (url.parse(link).hostname.includes("gift.truemoney.com") && url.parse(link)["protocol"].includes("https:")){
+            
+            if (url.parse(link).hostname.includes("gift.truemoney.com")){
 
                 if (String(tel) && String(tel).startsWith(0)) {
                     this.tel = tel
